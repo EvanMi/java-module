@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.yumi.hello/com.yumi.hello.iml" filepath="$PROJECT_DIR$/com.yumi.hello/com.yumi.hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yumi.widget/com.yumi.widget.iml" filepath="$PROJECT_DIR$/com.yumi.widget/com.yumi.widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-module.iml" filepath="$PROJECT_DIR$/java-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.yumi.data/org.yumi.data.iml" filepath="$PROJECT_DIR$/org.yumi.data/org.yumi.data.iml" />
+    </modules>
+  </component>
+</project>

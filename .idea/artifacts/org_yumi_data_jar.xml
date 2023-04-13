@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="org.yumi.data:jar">
+    <output-path>$PROJECT_DIR$/mlib</output-path>
+    <root id="archive" name="org.yumi.data.jar">
+      <element id="module-output" name="org.yumi.data" />
+    </root>
+  </artifact>
+</component>
