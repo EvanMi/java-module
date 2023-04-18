@@ -1,5 +1,5 @@
 ```shell
-$ jlink --module-path mods:"$JAVA_HOME"/jmods --add-modules eg.com.taman.hello--output HelloWorldJRE
+$ jlink --module-path mods:"$JAVA_HOME"/jmods --add-modules eg.com.taman.hello --output HelloWorldJRE
 $ cd HelloWorldJRE\bin
 $ ./java -m eg.com.taman.hello/eg.com.taman.hello.HelloWorldApp
 ```
