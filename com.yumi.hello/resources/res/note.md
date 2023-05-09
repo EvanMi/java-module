@@ -11,6 +11,8 @@ javac -d out --module-source-path "./*/src" $(find . -name "*.java")
 --module-source-path中的是依赖和要编译的所有的模块源码
 --module-path中是依赖的已经编译好的模块class
 
+javac -p mods/production  -d mm $(find com.yumi.hello/src -name "*.java")
+
 java -p mods/production -m com.yumi.hello/com.yumi.hello.HelloWorldApp
 运行编译好的内容
 
